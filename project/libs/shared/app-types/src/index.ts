@@ -22,6 +22,7 @@ export * from './lib/token.interface';
 export * from './lib/like.interface';
 export * from './lib/category.interface';
 export * from './lib/comment.interface';
+export * from './lib/subscriber.interface';
 
 
 
